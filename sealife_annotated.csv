@@ -1,0 +1,121 @@
+file_name,land_visible,seabed_visible,legs,tentacles,shell
+001.jpg,false,false,not present,not present,not present
+002.jpg,false,true,not present,not present,not present
+003.jpg,false,true,not present,not present,not present
+004.jpg,false,false,not present,not present,not present
+005.jpg,false,true,not present,present,not present
+006.jpg,false,true,not present,not present,not present
+007.jpg,false,false,present,not present,not present
+008.jpg,false,false,not present,not present,not present
+009.jpg,false,false,not present,present,present
+010.jpg,false,false,not present,not present,not present
+011.jpg,false,false,not present,not present,not present
+012.jpg,false,true,present,present,present
+013.jpg,true,false,present,not present,present
+014.jpg,true,false,present,not present,not present
+015.jpg,false,false,not present,not present,not present
+016.jpg,true,false,present,not present,not present
+017.jpg,false,false,not present,present,present
+018.jpg,false,true,present,present,present
+019.jpg,false,false,not present,not present,not present
+020.jpg,false,true,present,not present,present
+021.jpg,false,false,not present,present,present
+022.jpg,false,false,not present,present,present
+023.jpg,false,false,not present,present,present
+024.jpg,false,false,not present,present,not present
+025.jpg,false,false,not present,not present,not present
+026.jpg,false,true,present,not present,present
+027.jpg,true,false,present,not present,not present
+028.jpg,true,false,present,not present,not present
+029.jpg,false,false,not present,not present,not present
+030.jpg,false,false,not present,not present,not present
+031.jpg,false,true,not present,not present,not present
+032.jpg,true,false,present,not present,present
+033.jpg,false,false,not present,present,present
+034.jpg,false,false,not present,not present,not present
+035.jpg,false,true,not present,not present,not present
+036.jpg,false,true,not present,not present,not present
+037.jpg,false,true,present,not present,present
+038.jpg,false,false,not present,present,not present
+039.jpg,false,false,not present,present,not present
+040.jpg,false,false,not present,not present,not present
+041.jpg,false,true,present,not present,present
+042.jpg,false,false,not present,present,present
+043.jpg,false,false,not present,present,not present
+044.jpg,false,true,not present,present,not present
+045.jpg,false,true,not present,present,not present
+046.jpg,false,false,not present,present,not present
+047.jpg,false,false,not present,present,not present
+048.jpg,false,true,present,present,present
+049.jpg,false,true,present,present,present
+050.jpg,false,false,present,present,present
+051.jpg,false,true,not present,not present,not present
+052.jpg,false,false,present,present,present
+053.jpg,false,true,present,present,present
+054.jpg,false,false,not present,present,present
+055.jpg,false,true,not present,present,not present
+056.jpg,true,false,present,not present,not present
+057.jpg,false,true,not present,present,not present
+058.jpg,false,true,present,not present,present
+059.jpg,false,true,not present,not present,not present
+060.jpg,false,true,not present,present,not present
+061.jpg,false,true,not present,not present,not present
+062.jpg,false,false,not present,not present,not present
+063.jpg,false,false,not present,not present,not present
+064.jpg,false,true,not present,not present,not present
+065.jpg,true,false,not present,present,present
+066.jpg,false,true,not present,not present,not present
+067.jpg,false,true,not present,not present,not present
+068.jpg,false,true,not present,not present,not present
+069.jpg,false,false,not present,not present,not present
+070.jpg,false,false,not present,present,not present
+071.jpg,false,false,not present,not present,not present
+072.jpg,false,false,not present,not present,not present
+073.jpg,false,true,not present,present,not present
+074.jpg,false,false,not present,not present,not present
+075.jpg,false,false,not present,not present,not present
+076.jpg,false,true,not present,not present,not present
+077.jpg,false,false,not present,not present,not present
+078.jpg,false,false,not present,not present,not present
+079.jpg,false,false,not present,not present,not present
+080.jpg,true,false,present,not present,present
+081.jpg,true,false,present,present,present
+082.jpg,true,false,present,not present,present
+083.jpg,true,false,not present,not present,not present
+084.jpg,true,false,not present,not present,not present
+085.jpg,false,false,not present,not present,not present
+086.jpg,false,false,not present,not present,not present
+087.jpg,true,false,not present,not present,not present
+088.jpg,false,true,not present,not present,not present
+089.jpg,false,true,not present,not present,not present
+090.jpg,false,false,not present,not present,not present
+091.jpg,false,true,not present,not present,not present
+092.jpg,false,true,not present,not present,not present
+093.jpg,false,false,not present,not present,not present
+094.jpg,false,false,not present,not present,not present
+095.jpg,false,true,not present,not present,not present
+096.jpg,false,true,not present,not present,not present
+097.jpg,false,true,not present,not present,not present
+098.jpg,false,true,present,not present,present
+099.jpg,false,false,not present,not present,not present
+100.jpg,false,true,present,not present,not present
+101.jpg,false,true,not present,not present,not present
+102.jpg,true,false,not present,not present,present
+103.jpg,false,true,not present,not present,not present
+104.jpg,false,false,not present,not present,not present
+105.jpg,false,true,not present,not present,not present
+106.jpg,false,false,not present,not present,not present
+107.jpg,false,true,not present,not present,not present
+108.jpg,false,false,not present,not present,present
+109.jpg,false,false,present,not present,present
+110.jpg,true,false,not present,not present,present
+111.jpg,true,false,present,not present,present
+112.jpg,true,false,present,present,present
+113.jpg,false,true,not present,present,present
+114.jpg,true,false,not present,not present,present
+115.jpg,false,false,not present,not present,present
+116.jpg,true,false,not present,not present,present
+117.jpg,true,false,not present,not present,present
+118.jpg,true,false,not present,present,present
+119.jpg,true,false,not present,not present,present
+120.jpg,true,false,present,not present,present
