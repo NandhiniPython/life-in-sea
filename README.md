@@ -17,4 +17,5 @@ This dataset can be used for multi-target image classification.
 Once targets are defined, all other features can be used as metadata to help improve the model.
 
 `sealife_labels.jpg` explores class distribution among features.
-![image](https://raw.githubusercontent.com/RajkumarGalaxy/life-in-sea/main/sealife_labels.jpg)
+
+![image](https://raw.githubusercontent.com/NandhiniPython/life-in-sea/main/sealife_labels.jpg)
