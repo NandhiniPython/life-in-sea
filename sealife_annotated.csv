@@ -40,7 +40,7 @@ file_name,land_visible,seabed_visible,legs,tentacles,shell
 039.jpg,false,false,not present,present,not present
 040.jpg,false,false,not present,not present,not present
 041.jpg,false,true,present,not present,present
-042.jpg,false,false,not present,present,present
+042.jpg,false,true,not present,not present,not present
 043.jpg,false,false,not present,present,not present
 044.jpg,false,true,not present,present,not present
 045.jpg,false,true,not present,present,not present
@@ -96,7 +96,7 @@ file_name,land_visible,seabed_visible,legs,tentacles,shell
 095.jpg,false,true,not present,not present,not present
 096.jpg,false,true,not present,not present,not present
 097.jpg,false,true,not present,not present,not present
-098.jpg,false,true,present,not present,present
+098.jpg,false,true,not present,not present,not present
 099.jpg,false,false,not present,not present,not present
 100.jpg,false,true,present,not present,not present
 101.jpg,false,true,not present,not present,not present
@@ -139,3 +139,13 @@ file_name,land_visible,seabed_visible,legs,tentacles,shell
 138.jpg,true,false,present,not present,not present
 139.jpg,true,false,present,not present,not present
 140.jpg,true,false,present,not present,not present
+141.jpg,true,false,present,not present,not present
+142.jpg,false,true,not present,present,not present
+143.jpg,true,false,present,not present,not present
+144.jpg,false,true,not present,present,not present
+145.jpg,false,true,not present,not present,not present
+146.jpg,false,true,not present,present,not present
+147.jpg,false,true,not present,present,not present
+148.jpg,false,true,not present,present,not present
+149.jpg,false,true,not present,present,not present
+150.jpg,false,true,not present,not present,not present
