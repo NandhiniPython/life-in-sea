@@ -179,3 +179,13 @@ file_name,land_visible,seabed_visible,legs,tentacles,shell
 178.jpg,false,false,not present,not present,not present
 179.jpg,false,false,not present,present,present
 180.jpg,false,false,not present,present,present
+181.jpg,false,false,not present,present,present
+182.jpg,true,false,present,not present,not present
+183.jpg,true,false,not present,not present,not present
+184.jpg,true,false,not present,not present,present
+185.jpg,true,false,not present,not present,present
+186.jpg,true,false,present,not present,present
+187.jpg,true,false,not present,not present,not present
+188.jpg,true,false,not present,not present,not present
+189.jpg,true,false,not present,not present,not present
+190.jpg,false,true,not present,not present,not present
